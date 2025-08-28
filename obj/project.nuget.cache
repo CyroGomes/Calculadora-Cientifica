@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "I8lBnW6I39A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cyrog\\OneDrive\\Área de Trabalho\\Open source\\Meus Projetos\\CalculadoraCientifica\\CalculadoraCientifica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cyrog\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\cyrog\\.nuget\\packages\\ncalc\\1.3.8\\ncalc.1.3.8.nupkg.sha512",
+    "C:\\Users\\cyrog\\.nuget\\packages\\oxyplot.core\\2.2.0\\oxyplot.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\cyrog\\.nuget\\packages\\oxyplot.imagesharp\\2.2.0\\oxyplot.imagesharp.2.2.0.nupkg.sha512",
+    "C:\\Users\\cyrog\\.nuget\\packages\\oxyplot.windowsforms\\2.2.0\\oxyplot.windowsforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\cyrog\\.nuget\\packages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512",
+    "C:\\Users\\cyrog\\.nuget\\packages\\sixlabors.imagesharp\\2.1.9\\sixlabors.imagesharp.2.1.9.nupkg.sha512",
+    "C:\\Users\\cyrog\\.nuget\\packages\\sixlabors.imagesharp.drawing\\1.0.0\\sixlabors.imagesharp.drawing.1.0.0.nupkg.sha512",
+    "C:\\Users\\cyrog\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\cyrog\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "O pacote 'ncalc 1.3.8' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net9.0-windows7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "projectPath": "C:\\Users\\cyrog\\OneDrive\\Área de Trabalho\\Open source\\Meus Projetos\\CalculadoraCientifica\\CalculadoraCientifica.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\cyrog\\OneDrive\\Área de Trabalho\\Open source\\Meus Projetos\\CalculadoraCientifica\\CalculadoraCientifica.csproj",
+      "libraryId": "ncalc",
+      "targetGraphs": [
+        "net9.0-windows7.0"
+      ]
+    }
+  ]
+}

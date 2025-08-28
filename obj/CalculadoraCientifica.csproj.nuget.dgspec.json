@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cyrog\\OneDrive\\Área de Trabalho\\Open source\\Meus Projetos\\CalculadoraCientifica\\CalculadoraCientifica.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cyrog\\OneDrive\\Área de Trabalho\\Open source\\Meus Projetos\\CalculadoraCientifica\\CalculadoraCientifica.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cyrog\\OneDrive\\Área de Trabalho\\Open source\\Meus Projetos\\CalculadoraCientifica\\CalculadoraCientifica.csproj",
+        "projectName": "CalculadoraCientifica",
+        "projectPath": "C:\\Users\\cyrog\\OneDrive\\Área de Trabalho\\Open source\\Meus Projetos\\CalculadoraCientifica\\CalculadoraCientifica.csproj",
+        "packagesPath": "C:\\Users\\cyrog\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cyrog\\OneDrive\\Área de Trabalho\\Open source\\Meus Projetos\\CalculadoraCientifica\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cyrog\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "dependencies": {
+            "OxyPlot.ImageSharp": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "OxyPlot.WindowsForms": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "ncalc": {
+              "target": "Package",
+              "version": "[1.3.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
