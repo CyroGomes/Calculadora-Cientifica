@@ -27,27 +27,8 @@ O objetivo deste projeto foi criar uma calculadora científica interativa que co
 
 ---
 
-## 📂 Estrutura do Projeto
-
-CalculadoraCientifica/
-│
-├── Components/
-│   ├── MathEvaluator.cs         // Avaliação de expressões
-│   ├── PlotManager.cs           // Gráficos com OxyPlot
-│   ├── FunctionAnalyzer.cs      // Raízes e assíntotas
-│   ├── FunctionLibrary.cs       // Funções pré-definidas
-│
-├── Form1.cs                     // Interface principal
-├── Form1.Interface.cs           // Layout e controles
-├── README.md                    // Documentação
-
----
-
 ## 🤝 Contribuições
 
 Contribuições são bem-vindas!  
 Abra uma issue, envie um pull request ou compartilhe sugestões.
-# Calculadora-Cientifica
-# Calculadora-Cientifica
-# Calculadora-Cientifica
-# Calculadora-Cientifica
+
